@@ -1,0 +1,69 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.card-about{
+  margin: 0 30px;
+}
+.card-about:hover{
+  box-shadow: rgba(149, 157, 165, 0.8) 10px 20px 40px;
+}
+.card{
+  margin: 0 30px;
+  box-shadow: 2px 2px 10px;
+}
+.navbar-brand {
+  color: aliceblue;
+}
+.nav-item a{
+  margin: 0px 16px;
+  color: rgb(221, 230, 237);
+  
+}
+.nav-item a:hover{
+  color: aliceblue;
+}
+.navbar-brand:hover{
+  color: aliceblue;
+}
+.common-class h2{
+  margin-top: 120px;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 400px;
+}
+.contact-us{
+  margin-top: 55px;
+}
+.text{
+  color: white;
+}
+.text:hover{
+  color: gold;
+  text-decoration: underline;
+}
+.footer-icon{
+ padding: 10px 10px;
+ font-size: 22px;
+ width: 40px;
+ height: 40px;
+ cursor: pointer;
+ border: 1px solid blue;
+ border-radius: 2px;
+ color: white;
+ background-color: blue;
+ 
+}
+.footer-icon:hover{
+  color: black;
+}
+.footer-last{
+  text-align: center;
+  margin-top: 30px;
+
+}
+.footer-last h6 span{
+  color: rgb(63, 63, 211);
+  text-decoration: underline;
+  font-weight: 600px;
+}
